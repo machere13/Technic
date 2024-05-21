@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Technic/static/css/main.f55d3f1e.css",
+    "main.css": "/Technic/static/css/main.8e106ac1.css",
     "main.js": "/Technic/static/js/main.22d1a027.js",
     "static/media/SecondPic.png": "/Technic/static/media/SecondPic.bf3f5ebcdf71ec18834b.png",
     "static/media/ThirdPic.png": "/Technic/static/media/ThirdPic.426ca4bd8630382c98a4.png",
@@ -14,11 +14,11 @@
     "static/media/Phone.svg": "/Technic/static/media/Phone.a2012245e291e0ac90b3899bf79d6755.svg",
     "static/media/Logo.svg": "/Technic/static/media/Logo.ea2f90464f933c731db5.svg",
     "index.html": "/Technic/index.html",
-    "main.f55d3f1e.css.map": "/Technic/static/css/main.f55d3f1e.css.map",
+    "main.8e106ac1.css.map": "/Technic/static/css/main.8e106ac1.css.map",
     "main.22d1a027.js.map": "/Technic/static/js/main.22d1a027.js.map"
   },
   "entrypoints": [
-    "static/css/main.f55d3f1e.css",
+    "static/css/main.8e106ac1.css",
     "static/js/main.22d1a027.js"
   ]
 }
